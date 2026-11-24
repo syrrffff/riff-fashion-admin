@@ -165,7 +165,7 @@ export default function Orders() {
 
             <div class="section">
               <div class="section-title">PENGIRIM:</div>
-              <div style="font-weight: 900;">RIFF FASHION (Toko Anda)</div>
+              <div style="font-weight: 900;">RIFF FASHION </div>
               <div>0812-XXXX-XXXX</div>
             </div>
 
